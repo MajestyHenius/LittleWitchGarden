@@ -1,0 +1,4 @@
+SRPG_Data/resources.assets.resS filter=lfs diff=lfs merge=lfs -text
+SRPG_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+SRPG_Data/sharedassets2.assets.resS filter=lfs diff=lfs merge=lfs -text
+SRPG_Data/StreamingAssets/aa/StandaloneWindows64/cards_assets_all_c2e1c105a4b9ba0a8f443d1c38d1d042.bundle filter=lfs diff=lfs merge=lfs -text
