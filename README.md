@@ -1,8 +1,7 @@
 # LittleWitchGarden
 
-![GameTitle](E:\20260322\LittleWitchGarden\GameTitle.png)
-
-![Screenshot](E:\20260322\LittleWitchGarden\Screenshot.png)
+![GameTitle](./GameTitle.png)
+![Screenshot](./Screenshot.png)
 
 小小魔女花园是一款Roguelike卡牌-自走棋游戏，由清华大学交叉信息研究院助理教授[**贺天行**](https://cloudygoose.github.io/)领导监督制作。
 
