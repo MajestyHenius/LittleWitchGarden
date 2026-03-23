@@ -52,7 +52,8 @@ through mist and ruins, to reclaim the lost colors.
 ## Download
 
 Go to the [Releases](../../releases) page to download the latest version. v1.0.0.
-Note: This repo uses **LFS** to upload files, directly download git and run .exe may not work due to loss of game resources.
+
+Note: This repo uses **LFS** to upload files, directly download git and run .exe may not work due to loss of game resources. Please go to [Release](https://github.com/MajestyHenius/LittleWitchGarden/releases/tag/v1.0.0) to download "0323.zip" and unzip it to play.
 
 ### System Requirements
 
