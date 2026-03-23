@@ -29,6 +29,9 @@
 本仓库使用LFS上传，请前往[Release](https://github.com/MajestyHenius/LittleWitchGarden/releases/tag/v1.0.0) 下载0323.zip，解压后运行exe
 
 
+游戏沿用Roguelike要素，中途退出游戏，正在进行的战斗不会被保存。但已取得的全局卡牌解锁进度将会保留。
+
+
 ---
 
 ## English
