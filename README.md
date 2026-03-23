@@ -23,6 +23,12 @@
 
 **制作引擎：** Unity
 
+
+
+## 游玩方法：
+本仓库使用LFS上传，请前往[Release](https://github.com/MajestyHenius/LittleWitchGarden/releases/tag/v1.0.0) 下载0323.zip，解压后运行exe
+
+
 ---
 
 ## English
@@ -53,7 +59,7 @@ through mist and ruins, to reclaim the lost colors.
 
 Go to the [Releases](../../releases) page to download the latest version. v1.0.0.
 
-Note: This repo uses **LFS** to upload files, directly download git and run .exe may not work due to loss of game resources. Please go to [Release](https://github.com/MajestyHenius/LittleWitchGarden/releases/tag/v1.0.0) to download "0323.zip" and unzip it to play.
+**Note**: This repo uses **LFS** to upload files, directly download git and run .exe may not work due to loss of game resources. Please go to [Release](https://github.com/MajestyHenius/LittleWitchGarden/releases/tag/v1.0.0) to download "0323.zip" and unzip it to play.
 
 ### System Requirements
 
