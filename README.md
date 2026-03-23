@@ -51,7 +51,8 @@ through mist and ruins, to reclaim the lost colors.
 
 ## Download
 
-Go to the [Releases](../../releases) page to download the latest version.
+Go to the [Releases](../../releases) page to download the latest version. v1.0.0.
+Note: This repo uses **LFS** to upload files, directly download git and run .exe may not work due to loss of game resources.
 
 ### System Requirements
 
