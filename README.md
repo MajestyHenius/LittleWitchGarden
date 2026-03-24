@@ -31,6 +31,11 @@
 
 游戏沿用Roguelike要素，中途退出游戏，正在进行的战斗不会被保存。但已取得的全局卡牌解锁进度将会保留。
 
+## 版权信息：
+
+此仓库仅用于分发目的而托管游戏构建。游戏资产和源代码是**非**开源的。
+游戏代码和美术资产归制作组所有。
+使用的音乐来自于公开素材库(CC BY 4.0)：[PeriTune](https://peritune.com/) 
 
 ---
 
@@ -80,3 +85,4 @@ If you encounter any issues or have suggestions, please open an [Issue](../../is
 ## License
 
 This repository hosts game builds for distribution purposes only. The game assets and source code are **not** open-source. All rights reserved.
+The BGMs used in this game comes from the open library (following CC BY 4.0): [PeriTune]（ https://peritune.com/ ) 
