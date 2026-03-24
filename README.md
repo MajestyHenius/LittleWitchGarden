@@ -85,4 +85,4 @@ If you encounter any issues or have suggestions, please open an [Issue](../../is
 ## License
 
 This repository hosts game builds for distribution purposes only. The game assets and source code are **not** open-source. All rights reserved.
-The BGMs used in this game comes from the open library (following CC BY 4.0): [PeriTune]（ https://peritune.com/ ) 
+The BGMs used in this game comes from the open library (following CC BY 4.0): [PeriTune]( https://peritune.com/)
