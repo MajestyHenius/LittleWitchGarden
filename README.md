@@ -8,7 +8,7 @@
 **项目领导人&制作总监：** 贺天行  
 **策划：** Lanlan  
 **程序：** Henius  
-**美术：** Peipei，立喵，LiYing，青菜  
+**美术：** Peipei，立喵，LiYing 
 **动画：** Henius，Kangda  
 
 ## 游戏背景
