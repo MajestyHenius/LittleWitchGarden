@@ -26,7 +26,7 @@
 
 
 ## 游玩方法：
-本仓库使用LFS上传，请前往[Release](https://github.com/MajestyHenius/LittleWitchGarden/releases/tag/v1.0.0) 下载0325.zip，解压后运行exe
+本仓库使用LFS上传，请前往[Release](https://github.com/MajestyHenius/LittleWitchGarden/releases/tag/v1.0.0) 下载最新日期的zip，解压后运行exe
 
 
 游戏沿用Roguelike要素，中途退出游戏，正在进行的战斗不会被保存。但已取得的全局卡牌解锁进度将会保留。
@@ -67,7 +67,7 @@ through mist and ruins, to reclaim the lost colors.
 
 Go to the [Releases](../../releases) page to download the latest version. v1.0.0.
 
-**Note**: This repo uses **LFS** to upload files, directly download git and run .exe may not work due to loss of game resources. Please go to [Release](https://github.com/MajestyHenius/LittleWitchGarden/releases/tag/v1.0.0) to download "0325.zip" and unzip it to play.
+**Note**: This repo uses **LFS** to upload files, directly download git and run .exe may not work due to loss of game resources. Please go to [Release](https://github.com/MajestyHenius/LittleWitchGarden/releases/tag/v1.0.0) to download the latest zip file and unzip it to play.
 
 ### System Requirements
 
