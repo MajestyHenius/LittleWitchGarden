@@ -46,7 +46,7 @@ Little Witch Garden is a card-based auto-battler game, directed and supervised b
 **Project Lead & Director:** Tianxing He  
 **Game Design:** Lanlan  
 **Game Develop:** Henius  
-**Art:** Peipei, Limiao, LiYing, Qingcai  
+**Art:** Peipei, Limiao, LiYing
 **Animation:** Henius, Kangda  
 
 ### Story
