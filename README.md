@@ -6,9 +6,13 @@
 小小魔女花园是一款Roguelike卡牌-自走棋游戏，由清华大学交叉信息研究院助理教授[**贺天行**](https://cloudygoose.github.io/)领导监督制作。
 
 **项目领导人&制作总监：** 贺天行  
+
 **策划：** Lanlan  
+
 **程序：** Henius  
+
 **美术：** Peipei，立喵，LiYing 
+
 **动画：** Henius，Kangda  
 
 ## 游戏背景
